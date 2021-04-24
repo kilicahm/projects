@@ -1,7 +1,0 @@
-[200~password = "basak"
-        name = "kilic"
-        your_name = input("what is your name ?")
-        if name == your_name:
-          print("Hello, {}! The password is : {}".format(name,password))
-          else:
-              print("Hello, {}! See you later.".format(your_name
